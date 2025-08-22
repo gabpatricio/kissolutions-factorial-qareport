@@ -10,19 +10,19 @@ Recommendations for bug fixes and enhancements are detailed below.
 
 ---
 ## Suggestions and recommended enhancements
-Expected results: improves usability and prevents user errors.
-* **[S-01] Add a "Clear" Button:** Add a `Clear` button next to `Calculate!` so the user can easily reset the input field.
-* **[S-02] Auto-Clear Previous Results:** Auto-clear previous results each time the user clicks Calculate! again, ensuring the current output corresponds only to the latest calculation.
-* **[S-03] Align Page Title:** Change the title text on top of the main input label to "The Greatest Factorial Calculator" so it aligns with stakeholder expectations.
+Expected results: improves usability and prevents user errors. They can be accessed through ´**Issues**´.
+* **[S-01] [Calculator] Add a "Clear" Button:** Add a `Clear` button next to `Calculate!` so the user can easily reset the input field.
+* **[S-02] [Calculator] Auto-Clear Previous Results:** Auto-clear previous results each time the user clicks Calculate! again, ensuring the current output corresponds only to the latest calculation.
+* **[S-03] [Calculator] Align Page Title:** Change the title text on top of the main input label to "The Greatest Factorial Calculator" so it aligns with stakeholder expectations.
 
 ## Bugs Identified
-Prioritized by severity to guide the development team on what to fix first.
+Prioritized by severity to guide the development team on what to fix first. They can be accessed through ´**Issues**´.
 
-* **[B-01]** No error message while inputing a negative integer
-* **[B-02]** No result or error message when calculating a large number
-* **[B-03]** Terms and Conditions redirects to the wrong page
-* **[B-04]** Privacy redirects to the wrong page
-* **[B-05]** Website title fix
+* **[B-01] [Calculator]** No error message while inputing a negative integer
+* **[B-02] [Calculator]** No result or error message when calculating a large number
+* **[B-03] [Navigation]** Terms and Conditions redirects to the wrong page
+* **[B-04] [Navigation]** Privacy redirects to the wrong page
+* **[B-05] [UI]** Website navbar title fix
 
 ## Test Cases 
 **Regarding the main functionality**
