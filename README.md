@@ -13,7 +13,7 @@ Recommendations for bug fixes and enhancements are detailed below.
 Expected results: improves usability and prevents user errors.
 * **[S-01] Add a "Clear" Button:** Add a `Clear` button next to `Calculate!` so the user can easily reset the input field.
 * **[S-02] Auto-Clear Previous Results:** Auto-clear previous results each time the user clicks Calculate! again, ensuring the current output corresponds only to the latest calculation.
-* **[S-03] Align Page Title:** Change the HTML `<title>` to "The Greatest Factorial Calculator" so it aligns with stakeholder expectations.
+* **[S-03] Align Page Title:** Change the title text on top of the main input label to "The Greatest Factorial Calculator" so it aligns with stakeholder expectations.
 
 ## Bugs Identified
 Prioritized by severity to guide the development team on what to fix first.
